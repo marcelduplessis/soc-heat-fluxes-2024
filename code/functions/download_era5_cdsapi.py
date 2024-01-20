@@ -22,7 +22,7 @@ def download_era5_cdsapi(var, days, month, year, dataset="reanalysis-era5-single
                   'format': 'netcdf'
                  }
 
-    else: 
+    elif dataset=='reanalysis-era5-single-levels': 
         
         params = {
                   'variable': [var],
