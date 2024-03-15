@@ -6,4 +6,6 @@ The data is the ERA5 reanalysis and was downloaded from https://cds.climate.cope
 
 Hersbach, H., Bell, B., Berrisford, P., Hirahara, S., Horányi, A., Muñoz‐Sabater, J., Nicolas, J., Peubey, C., Radu, R., Schepers, D. and Simmons, A., 2020. The ERA5 global reanalysis. Quarterly Journal of the Royal Meteorological Society, 146(730), pp.1999-2049.
 
-All the analysis is in ´soc_2023_analysis.ipynb´.  
+Climatology: 1991-2020 (WMO defined modern period)
+
+All the analysis is in `soc_2023_analysis.ipynb`.   
