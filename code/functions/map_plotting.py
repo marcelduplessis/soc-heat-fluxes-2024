@@ -24,8 +24,8 @@ def gridlines(ax):
     gl.xformatter = LONGITUDE_FORMATTER
     gl.yformatter = LATITUDE_FORMATTER
     
-    gl.ylabel_style = {'fontsize': 10, 'alpha': 0}
-    gl.xlabel_style = {'fontsize': 10, 'rotation': 'horizontal'}
+    gl.ylabel_style = {'fontsize': 12, 'alpha': 0}
+    gl.xlabel_style = {'fontsize': 12, 'rotation': 'horizontal'}
 
     return gl
 
